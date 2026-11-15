@@ -1,0 +1,11 @@
+# Środowisko wirtualne
+venv/
+.venv/
+
+# Dane
+dataset/
+
+
+# Cache Pythona
+__pycache__/
+*.py[cod]
